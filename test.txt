@@ -1,0 +1,1 @@
+A new test file that is stage on master and not committed.
